@@ -1,2 +1,2 @@
-pet project using python
+pet project 
 
