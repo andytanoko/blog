@@ -1,3 +1,2 @@
-blog
-====
+pet project using python
 
